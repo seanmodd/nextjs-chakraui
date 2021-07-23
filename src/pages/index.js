@@ -18,7 +18,7 @@ const Index = () => (
   <Container height="100vh">
     <Hero />
     <Main>
-      <Text>
+            <Text>
         Example repository of of <Code>Next.js</Code> + <Code>chakra-ui</Code>.
       </Text>
 
